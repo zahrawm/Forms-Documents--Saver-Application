@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093175649567",
+    "project_id": "docsaverapp-ca86e",
+    "storage_bucket": "docsaverapp-ca86e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093175649567:android:22727617d9b02e17d7fc2a",
+        "android_client_info": {
+          "package_name": "com.example.document_saver_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRsv_exHCXK0YsuPir7TxrNZVjY_sv3gw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
